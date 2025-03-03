@@ -1,23 +1,23 @@
 # Dungeon Crawler - Java Game Project
 
-Description
+## Description
 
-Un jeu en 2D où un personnage explore un donjon avec des obstacles et des interactions.
+  - Un jeu en 2D où un personnage explore un donjon avec des obstacles et des interactions.
 
-Fonctionnalités principales
+  - Fonctionnalités principales
 
-Affichage d'un donjon avec des éléments statiques et dynamiques.
+  - Affichage d'un donjon avec des éléments statiques et dynamiques.
 
-Déplacement du personnage avec gestion des collisions.
+  - Déplacement du personnage avec gestion des collisions.
 
-Animation du personnage.
+  - Animation du personnage.
 
-Interaction avec l'environnement.
+  - Interaction avec l'environnement.
 
-Ajout d'ennemis avec des patterns de déplacement.
+  - Ajout d'ennemis avec des patterns de déplacement.
 
-Niveaux supplémentaires pour une meilleure progression.
+  - Niveaux supplémentaires pour une meilleure progression.
 
-Attaques et animations avancées pour enrichir le gameplay.
+  - Attaques et animations avancées pour enrichir le gameplay.
 
-Caméra dynamique suivant le personnage.
+  - Caméra dynamique suivant le personnage.
